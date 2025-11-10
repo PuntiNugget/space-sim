@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"  <-- ADD THIS LINE
+    "start": "node index.js"  
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2" // (Or whatever you installed)
+    "express": "^4.18.2" 
   }
 }
