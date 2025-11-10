@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+app.listen(process.env.PORT || 3000)
 
 const GravitySimulator = () => {
   const canvasRef = useRef(null);
